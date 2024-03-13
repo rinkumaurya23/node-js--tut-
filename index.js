@@ -1,7 +1,8 @@
-console.log("hey there! I asm Js ");
+const math = require("./math")
+
+console.log("Math Value ",math.sub(2,4));
 
 
-// DOM & Event  - not working in server side scripting 
 
 
 
